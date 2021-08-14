@@ -125,3 +125,7 @@ By default `hardware` rendering mode will be used for best performance, however 
 [license]: https://opensource.org/licenses/MIT
 [lean-core-badge]: https://img.shields.io/badge/Lean%20Core-Extracted-brightgreen.svg?style=flat-square
 [lean-core-issue]: https://github.com/facebook/react-native/issues/23313
+
+## Snack expo
+https://snack.expo.dev/@khanhpham2411/maskedview
+Run it on android/ios, web is not supported
